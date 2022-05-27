@@ -1,0 +1,15 @@
+{
+  "name": "vaskovsky-font",
+  "version": "22.5.27",
+  "description": "Vaskovsky Font Collection",
+  "author": "Alexey Vaskovsky <alexey@vaskovsky.net>",
+  "license": "OFL-1.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaskovsky/font.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vaskovsky/font/issues"
+  },
+  "homepage": "https://github.com/vaskovsky/font#readme"
+}
